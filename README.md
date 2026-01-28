@@ -1,8 +1,8 @@
-## Hi there everyone!
+## Hi Everyone!
 
-I'm Valentim a 18 year old **Data Science student at Uninter**, 
-graduated from school last year(2025), so I'm finally having proper amount of time to learn and pratice new skills.
-My account was created a year ago, but never really used Github for projects just to download stuff, This is my first active year.
+I'm Valentim a 18 year old **Data Science student at Uninter**.
+Graduated from school last year(2025), so I'm finally having proper amount of time to learn and pratice new skills.
+My account was created a year ago, but never really used Github for projects just to download stuff, This is my first "active" year.
 
 ### 🎓 Education
 * **Tecnólogo/ Associate degree in Data Science** | Uninter (feb 2026 until oct 2028)
