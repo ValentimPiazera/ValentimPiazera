@@ -1,22 +1,32 @@
-## Hi Everyone!
+# Hi, I'm Valentim! 👋
 
-I'm Valentim a 18 year old **Data Science student at Uninter**.
-Graduated from school last year(2025), so I'm finally having proper amount of time to learn and pratice new skills.
-My account was created a year ago, but never really used Github for projects just to download stuff, This is my first "active" year.
+I'm an 18-year-old **Data Science** student from Brazil. After finishing high school in 2025, I’m now fully dedicated to data science. 
+
+While I created this account a year ago, 2026 marks my first year as an **active user**!
+
+---
 
 ### 🎓 Education
-* **Tecnólogo/ Associate degree in Data Science** | Uninter (feb 2026 until oct 2028)
+* **Associate Degree in Data Science** | Uninter (Feb 2026 — Oct 2028)
 
-### 🛠️ My Skills (On the future this is gonna be a much longer list, but for now...)
-* **Languages:** Python (Pandas and NumPy), SQL
+### 🛠️ My Skills
+*As I grow, this list will grow too!*
+* **Languages:** Python (Pandas, NumPy), SQL
 * **Data Visualization:** Matplotlib, Plotly, Power BI
-* **Tools:** Jupyter Notebooks, GitHub and Google Colab
+* **Tools:** Jupyter Notebooks, Git & GitHub, Google Colab
 
 ### 🔭 Currently Learning
-* Learning ML (Scikit-Learn) from scratch
-* Improving my SQL skills
-* And a bit of everything.
+* 🤖 **Machine Learning:** Starting from scratch with Scikit-Learn.
+* 🗄️ **Databases:** Improving my SQL querying for complex datasets.
+* 📈 **General Growth:** Exploring a bit of everything in the data ecosystem.
 
-## 📝 My projects 
+### 📝 My Projects
+1. **[EDA: Electric Vehicles in Washington State ](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)** *My first-ever project! An exploratory analysis conducted in Portuguese. Please be kind, I'm learning!*
 
-1 - EDA about EVs in the state of Washington ([Portuguese Version](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)) (**My first ever project**, be nice...)
+---
+
+### 📫 Connect with me
+* **LinkedIn:** [https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/]
+* **Email:** [piazeravalentim@pm.me]
+
+![Valentim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
