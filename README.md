@@ -19,4 +19,4 @@ My account was created a year ago, but never really used Github for projects jus
 
 ## 📝 My projects 
 
-1 - EDA about EVs in the state of Washington([Portuguese Version](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington))(**My first ever project**, be nice...)
+1 - EDA about EVs in the state of Washington ([Portuguese Version](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)) (**My first ever project**, be nice...)
