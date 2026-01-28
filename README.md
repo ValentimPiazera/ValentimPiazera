@@ -1,4 +1,4 @@
-# Hi, I'm Valentim! 👋
+# Hi, I'm Valentim!
 
 I'm an 18-year-old **Data Science** student from Brazil. After finishing high school in 2025, I’m now fully dedicated to data science. 
 
