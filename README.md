@@ -29,4 +29,7 @@ While I created this account a year ago, 2026 marks my first year as an **active
 * **LinkedIn:** [https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/]
 * **Email:** [piazeravalentim@pm.me]
 
-![Valentim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentimPiazera&show_icons=true&theme=dracula)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
