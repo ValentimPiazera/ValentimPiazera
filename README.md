@@ -31,7 +31,6 @@
 
 
 1. **[EDA: Electric Vehicles in Washington State ](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)** *My first-ever project, An exploratory analysis conducted in Portuguese*
-2. 
 ---
 
 
