@@ -37,4 +37,4 @@
 ### 📫 Connect with me
 
 * [**LinkedIn**](https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/) (Although I prefer email for serious stuff)
-* **Email:** piazera.valentim@proton.me
+* **Email:** vpiazera@proton.me
