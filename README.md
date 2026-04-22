@@ -25,7 +25,7 @@
 
 * **🇧🇷 Portuguese (PT-BR): C2/Native**
 
-* **🇬🇧 English: B2** *working to become C1*
+* **🇬🇧 English: C1** *EF SET says C2, but I don't completely agree...*
 
 ### 📝 My Projects
 
