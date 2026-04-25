@@ -37,4 +37,6 @@
 ### 📫 Connect with me
 
 * [**LinkedIn**](https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/) (Although I prefer email for serious stuff)
+* [**LeetCode**](https://leetcode.com/u/ValentimPiazera/)
+* [**Kaggle**](https://www.kaggle.com/ValentimPiazera) (Currently inactive)
 * **Email:** vpiazera@proton.me
