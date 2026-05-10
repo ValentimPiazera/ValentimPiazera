@@ -31,7 +31,7 @@
 
 
 1. **[EDA: Electric Vehicles in Washington State ](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)**
-2. **[ETL: from Kaggle CSV to SQL](https://github.com/ValentimPiazera/ETL-SQL-Olist)**
+2. **[Mini ETL: from Kaggle CSV to MySQL](https://github.com/ValentimPiazera/Mini-ETL-kaggle-mysql)**
 ---
 
 
