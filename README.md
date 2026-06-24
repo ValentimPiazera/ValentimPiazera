@@ -25,7 +25,7 @@
 
 * **🇧🇷 Portuguese (PT-BR): C2/Native**
 
-* **🇬🇧 English: C2**(EF SET: Reading and Listening)
+* **🇬🇧 English: C2** (EF SET: Reading and Listening)
 
 ### 📝 My Projects
 
