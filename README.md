@@ -17,7 +17,7 @@
 
 * **Languages:** Python (Pandas, NumPy), SQL
 
-* **Data Visualization:** Matplotlib, Plotly, Power BI, Excel
+* **Data Visualisation:** Matplotlib, Plotly, Power BI, Excel
 
 * **Tools:** Jupyter Notebook, Google Colab, Markdown
 
@@ -39,5 +39,6 @@
 
 * [**LinkedIn**](https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/) (Although I prefer email for serious stuff)
 * [**LeetCode**](https://leetcode.com/u/ValentimPiazera/)
+* [**HackerRank**](https://www.hackerrank.com/profile/ValentimPiazera)
 * [**Kaggle**](https://www.kaggle.com/ValentimPiazera) (Currently inactive)
 * **Email:** vpiazera@proton.me
