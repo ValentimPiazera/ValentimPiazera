@@ -2,7 +2,7 @@
 
 
 
- I'm an 18-year-old **Data Science** student from Brazil. After finishing high school in 2025, I’m now fully dedicated to data science. 
+ I'm an 19-year-old **Data Science** student from Brazil. After finishing high school in 2025, I’m now fully dedicated to data science. 
 
 
 
@@ -27,18 +27,19 @@
 
 * **🇬🇧 English: C2** (EF SET: Reading and Listening)
 
-### 📝 My Projects
+### 📝 My Favourite Projects
 
 
 1. **[EDA: Electric Vehicles in Washington State ](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)**
-2. **[Mini ETL: from Kaggle CSV to MySQL](https://github.com/ValentimPiazera/Mini-ETL-kaggle-mysql)**
+2. **[Mini ETL: from Kaggle CSV to MySQL using .env](https://github.com/ValentimPiazera/Mini-ETL-kaggle-mysql)**
+3. **[EDA: Economic Freedom X Development Outcomes](https://github.com/ValentimPiazera/wb-economic-freedom) (Work in Progress 🚧)**
 ---
 
 
 ### 📫 Connect with me
 
-* [**LinkedIn**](https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/) (Although I prefer email for serious stuff)
+* [**LinkedIn**](https://www.linkedin.com/in/valentim-da-costa-piazera-4803353a6/)
 * [**LeetCode**](https://leetcode.com/u/ValentimPiazera/)
 * [**HackerRank**](https://www.hackerrank.com/profile/ValentimPiazera)
-* [**Kaggle**](https://www.kaggle.com/ValentimPiazera) (Currently inactive)
+* [**Kaggle**](https://www.kaggle.com/ValentimPiazera)
 * **Email:** vpiazera@proton.me
