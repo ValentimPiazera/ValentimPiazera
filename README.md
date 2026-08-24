@@ -9,7 +9,6 @@
 
 ### Selected Projects
 - **[EDA — Electric Vehicles in Washington State](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)**
-- **[ETL — Kaggle CSV → .ENV → MySQL](https://github.com/ValentimPiazera/Mini-ETL-kaggle-mysql)**
 - **[EDA — Economic Freedom × Development Outcomes](https://github.com/ValentimPiazera/wb-economic-freedom)** · *in progress*
 
 ### Languages
