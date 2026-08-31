@@ -9,7 +9,7 @@
 
 ### Selected Projects
 - **[EDA — Electric Vehicles in Washington State](https://github.com/ValentimPiazera/EDA-Carros-Eletricos-Washington)**
-- **[EDA — Economic Freedom × Development Outcomes](https://github.com/ValentimPiazera/wb-economic-freedom)** · *in progress*
+- **[EDA — Economic Freedom × Development Outcomes](https://github.com/ValentimPiazera/wb-economic-freedom)**
 
 ### Languages
 Portuguese (native) · English (C2 — EF SET)
